@@ -78,7 +78,7 @@ int main(int argc, char *argv[]) {
 
 ## OUTPUT
 
-![Alt text](img/1.png)
+<img width="1868" height="842" alt="image" src="https://github.com/user-attachments/assets/d75e1d2e-df70-4fee-9c32-4b82b361cbc2" />
 
 ## 2.To Write a C program that illustrates files locking
 
